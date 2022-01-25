@@ -1,1 +1,2 @@
 https://codeforces.com/contest/687/problem/A  (Base on Bipartite)
+https://codeforces.com/contest/500/problem/A  (Basic graph)
