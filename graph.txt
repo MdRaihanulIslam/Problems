@@ -1,2 +1,5 @@
 https://codeforces.com/contest/687/problem/A  (Base on Bipartite)
 https://codeforces.com/contest/500/problem/A  (Basic graph)
+https://codeforces.com/contest/893/problem/C  
+https://codeforces.com/contest/1167/problem/C
+https://codeforces.com/contest/771/problem/A  (connected component)
