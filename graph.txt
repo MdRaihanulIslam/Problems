@@ -5,3 +5,4 @@ https://codeforces.com/contest/1167/problem/C
 https://codeforces.com/contest/771/problem/A  (connected component)
 https://lightoj.com/problem/back-to-underworld 
 https://atcoder.jp/contests/abc126/tasks/abc126_d?lang=en  (Bipartite graph)
+https://codeforces.com/problemset/problem/1249/B1  (SCC)
