@@ -1,9 +1,10 @@
-https://codeforces.com/contest/687/problem/A  (Base on Bipartite)
-https://codeforces.com/contest/500/problem/A  (Basic graph)
+https://codeforces.com/contest/687/problem/A                   (Bipartite)
+https://codeforces.com/contest/500/problem/A                   (Basic graph)
 https://codeforces.com/contest/893/problem/C  
 https://codeforces.com/contest/1167/problem/C
-https://codeforces.com/contest/771/problem/A  (connected component)
+https://codeforces.com/contest/771/problem/A                   (connected component)
 https://lightoj.com/problem/back-to-underworld 
-https://atcoder.jp/contests/abc126/tasks/abc126_d?lang=en  (Bipartite graph)
-https://codeforces.com/problemset/problem/1249/B1  (SCC)
-https://codeforces.com/contest/510/problem/C   (topological sort)
+https://atcoder.jp/contests/abc126/tasks/abc126_d?lang=en      (Bipartite graph)
+https://codeforces.com/problemset/problem/1249/B1              (SCC)
+https://codeforces.com/contest/510/problem/C                   (topological sort)
+https://codeforces.com/problemset/problem/427/C                (SCC)
